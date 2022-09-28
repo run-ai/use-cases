@@ -1,0 +1,4 @@
+FROM jonathancosme/base-notebook-root
+
+RUN CONDA_OVERRIDE_CUDA="11.7" mamba install -c conda-forge wandb tensorflow tensorflow-gpu -y && \
+	mamba clean --all -f -y

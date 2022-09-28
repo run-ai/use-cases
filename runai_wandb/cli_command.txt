@@ -1,0 +1,8 @@
+runai submit \
+	--project testproj \
+	--gpu 1 \
+	--job-name-prefix wandb-demo \
+	--image jonathancosme/base-root-wandb-tf \
+	--volume /home/jonathan_cosme/jcosme:/home/jovyan/work \
+	--volume /home/jonathan_cosme/jcosme/wandb_creds/netrc:/home/jovyan/.netrc \
+	-- conda run -n base python work/projects/wandb_demo/wandb_demo.py
