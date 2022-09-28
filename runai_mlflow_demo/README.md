@@ -1,6 +1,6 @@
 # Using mlflow with run:ai  
   
-**A 10-minute video of a live demo can be found [here](https://youtu.be/VB8Iea_mrJM)**
+**A 10-minute video of a live demo can be found [here](https://youtu.be/EwOW-OBosuY)**
 
 ## Description:
 This repo details an example of how to integrate run:ai with mlflow.   
