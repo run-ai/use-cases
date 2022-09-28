@@ -1,6 +1,6 @@
 # Using mlflow with run:ai  
   
-**A 10-minute video of a live demo can be found [here](https://vimeo.com/735365104)**
+**A 10-minute video of a live demo can be found [here](https://youtu.be/VB8Iea_mrJM)**
 
 ## Description:
 This repo details an example of how to integrate run:ai with mlflow.   
@@ -13,7 +13,7 @@ It consists of 3 basic steps:
 3. run python scripts by submitting jobs to the scheduler, using the created docker image.  
 
 The created docker image used is public and can be found here:  
-[jonathancosme/mlflow-ui](https://hub.docker.com/repository/docker/jonathancosme/mlflow-ui)  
+[jonathancosme/mlflow-ui](https://hub.docker.com/r/jonathancosme/mlflow-ui)  
 The source for the docker image can be found here: [/mlflow-ui](./mlflow-ui).  
   
 Example notebook and python scripts can be found here: [/mlflow_demo](./mlflow_demo).  
@@ -89,7 +89,7 @@ mlflow.end_run()
   
 ### docker image
 The docker image we will use is:  
-[jonathancosme/mlflow-ui](https://hub.docker.com/repository/docker/jonathancosme/mlflow-ui)  
+[jonathancosme/mlflow-ui](https://hub.docker.com/r/jonathancosme/mlflow-ui)  
 This is what is in the dockerfile:  
 
 ![](images/image_5.png)   
