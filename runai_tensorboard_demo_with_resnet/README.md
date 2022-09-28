@@ -1,6 +1,6 @@
 # Using Tensorboard with run:ai (ResNet example)
   
-**A 14-minute video of a live demo can be found [here](https://youtu.be/VW5q_BXQ3Rg)**
+**A 14-minute video of a live demo can be found [here](https://youtu.be/ov2Lu31yLf0)**
   
 ## Description:
 This repo details an example of how to integrate run:ai with Tensorboard, using Tensorflow ResNet as an example.   
