@@ -16,7 +16,7 @@ It consists of 4 basic steps:
   
 The first created docker image used is public and can be found here:  
 [jonathancosme/tensorboard-ui](https://hub.docker.com/r/jonathancosme/tensorboard-ui)  
-The source for the first docker image can be found here: [/tensorboard-ui](/tensorboard-ui).  
+The source for the first docker image can be found here: [/tensorboard-ui](./tensorboard-ui).  
   
 The second created docker image used is public and can be found here:  
 [jonathancosme/keras-nb](https://hub.docker.com/r/jonathancosme/keras-nb)  
