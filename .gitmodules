@@ -1,3 +1,0 @@
-[submodule "runai_mlflow_demo"]
-	path = runai_mlflow_demo
-	url = https://github.com/jonathancosme/runai_mlflow_demo.git
